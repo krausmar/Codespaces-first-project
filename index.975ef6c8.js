@@ -27113,12 +27113,12 @@ var _stylesCss = require("./styles.css");
     name: "Marie-Juliette",
     title: "Data Science and AI student",
     email: "testmail@mail",
-    gitHub: "microsoft",
-    instagram: "microsoft",
+    gitHub: "krausmar",
+    instagram: ".",
     linkedIn: "",
     medium: "",
-    twitter: "microsoft",
-    youTube: "Code"
+    twitter: "",
+    youTube: "."
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
