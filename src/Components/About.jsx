@@ -32,7 +32,7 @@ const description =
  */
 const skillsList = [
   "Image classification",
-  "Working with Jupyter Notebooks",
+  "Working with Jupyter",
   "Data visualization",
 ];
 
